@@ -1,4 +1,12 @@
 apple
 mango
 orange
+<<<<<<< HEAD
 melon
+=======
+banana
+peach
+lemon
+date
+kiwi
+>>>>>>> 89ddbf45bab5f0d4be63eadc3ad88e3c3cf95be2
